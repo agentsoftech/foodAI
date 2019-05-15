@@ -18,6 +18,7 @@ $ source ./venv/bin/activate
 ```
 
 3. Add your image folder (e.g food_waste) containing two folders (trash and food waste/food) into tf_files. 
+Example:
 - tf_files/food_waste/food
 - tf_files/food_waste/trash
 
@@ -47,5 +48,5 @@ $ python -m scripts.retrain \
 - Food (0.01751)
 
 
-** side note: Windows might be different
+# Side note: Windows might be different
 * Command prompt for windows users https://skimfeed.com/blog/windows-command-prompt-ls-equivalent-dir/
