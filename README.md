@@ -45,3 +45,7 @@ $ python -m scripts.retrain \
 
 - Trash (0.98249)
 - Food (0.01751)
+
+
+** side note: Windows might be different
+* Command prompt for windows users https://skimfeed.com/blog/windows-command-prompt-ls-equivalent-dir/
